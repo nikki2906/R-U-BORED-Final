@@ -1,6 +1,3 @@
-Original App Design Project - README Template
-===
-
 # R U BORED?
 
 ## Table of Contents
