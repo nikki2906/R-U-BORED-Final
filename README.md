@@ -68,12 +68,6 @@ Scope: First, we require the users to enter their tasks, then return a random ta
 * Random >> displays random task
 
 ### Gif Representation 
-![](bored.gif)
 
-### [BONUS] Digital Wireframes & Mockups
+[Video Walkthrough](https://imgur.com/a/JKqCA1L)
 
-### [BONUS] Interactive Prototype
-
-## Schema 
-[This section will be completed in Unit 9]
-### Models
